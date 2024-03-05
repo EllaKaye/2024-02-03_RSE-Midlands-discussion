@@ -1,0 +1,92 @@
+---
+title: RSEs as part of the research infrastructure
+subtitle: RSE Midlands group discussion
+author: Ella Kaye
+date: 2024-03-07
+date-format: long
+format: 
+  warwickpres-revealjs: default
+---
+
+## Outline
+
+- Intro and polls (~10 mins)
+- Small group discussion (15-20 mins)
+- Whole room discussion (10-15 mins)
+  - reporting back from small groups
+  
+:::{.notes}
+- Perhaps designate a note-taker in each group
+- May also use vevox, but that might get in the way
+:::
+
+## Rapid-fire polls {.inverse .center-h .larger150}
+
+<https://vevox.app>
+
+118-773-882
+
+## Main discussion questions
+:::{.incremental}
+- As an RSE, how do you connect with researchers and other RSEs?
+- As an RSE user, how do you/would you like to access RSE services and collaborate with RSEs?
+- Have you experienced (or do you know about) tensions between researchers and RSEs on projects? How have these been resolved? How might they have been avoided?
+- What, for you, have been the enablers and/or barriers to identifying as an RSE?
+:::
+
+:::{.notes}
+Motivation: 
+
+- Interesting to see how things are done at different universities, perhaps some takeaways that could be applied elsewhere.
+- Are there areas of disconnect between how RSE users would like to access services and how RSEs are offering their services?
+:::
+
+```{=html}
+<!-- needs to be last chunk of presentation otherwise creates an extra slide -->
+<!-- requires Quarto v1.3 -->
+<!-- tint80 for border, tint20 for title -->
+<!-- this should hopefully no longer be necessary in Quarto 1.4 -->
+<!-- https://github.com/quarto-dev/quarto-cli/issues/5038 -->
+<style type="text/css">
+div.callout-note {
+  border-left-color: #336695 !important;
+}
+
+div.callout-note.callout-style-default .callout-title {
+  background-color: #CCD9E4 !important;
+}
+
+div.callout-caution {
+  border-left-color: #AE4240 !important;
+}
+
+div.callout-caution.callout-style-default .callout-title {
+  background-color: #ebd0cf !important;
+}
+
+div.callout-tip {
+  border-left-color: #618157 !important;
+}
+
+div.callout-tip.callout-style-default .callout-title {
+  background-color: #d8e0d5 !important;
+}
+
+div.callout-important {
+  border-left-color: #775781 !important;
+}
+
+div.callout-important.callout-style-default .callout-title {
+  background-color: #ddd5e0 !important;
+}
+
+div.callout-warning {
+  border-left-color: #956133 !important;
+}
+
+div.callout-warning.callout-style-default .callout-title {
+  background-color: #e4d8cc !important;
+}
+</style>
+```
+
